@@ -1,4 +1,4 @@
-# Burger Palace
+# Javascript quizboard
 
  #### This is a Burger–Restaurant landing page, 21/01/2022.
 
