@@ -18,11 +18,13 @@ You need to have a good laptop Have visual studio code installed despite the ope
 
 # How To Access the Site
 # The landing page is being hosted by Github Pages. The link to the page is:https://github.com/Kelvin-Wepo/Quiz-board
+
 # figma design https://www.figma.com/file/P1Wy6JRGDJE68kuKmZuBzh/Untitled?node-id=0%3A1
 
 # Technology Used
 HTML - which was used to build the structure of the pages.
 CSS - was used mainly used to style the pages including the top navigation bar
+JavaScript- used to solve mathematical logic and functions.
 ## License
 MIT License Copyright (c) [2022] [Kelvin wepo] Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
