@@ -1,6 +1,6 @@
 # Javascript quizboard
 
- #### This is a Burger–Restaurant landing page, 21/01/2022.
+ #### This is a Java quizboard landing page, 21/01/2022.
 
 
 ## Table of Contents
